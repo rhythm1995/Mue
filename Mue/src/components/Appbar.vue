@@ -1,15 +1,15 @@
 <template>
-  <div class="hello">
+  <div class="mui-appbar">
 
   </div>
 </template>
 
 <script>
 export default {
-  name: 'hello',
+  name: 'appbar',
   data () {
     return {
-      msg: 'Welcome to Your Vue.js App'
+      msg: 'Welcome to MUI'
     }
   }
 }

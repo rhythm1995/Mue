@@ -5,6 +5,13 @@ import App from './App'
 import router from './router'
 
 //Mue Components
+import Appbar from './components/Appbar.vue'
+
+
+const components = [
+  Appbar,
+
+]
 
 Vue.config.productionTip = false
 
